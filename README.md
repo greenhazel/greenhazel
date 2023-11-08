@@ -42,8 +42,8 @@
 
 have a nice day!
 
-![Top Langs in public repos](https://github-readme-stats.vercel.app/api/top-langs/?username=earhater\&layout=compact)
-[![Some funny time stats](https://github-readme-stats.vercel.app/api/wakatime?username=Greenhaze)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs in public repos](https://github-readme-stats.vercel.app/api/top-langs/?username=greenhazel\&layout=compact)
+
 <!--
 **earhater/earhater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
