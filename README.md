@@ -8,9 +8,8 @@
 ### You can write me to my telegram https://t.me/ACORU
 ### I fluently (B1-B2) Speak english and mostly active from 8:00 to 23:00 by UTC+3 time
 ### I will be realy glad to meet new people interested in programming!
-[![My Skills](https://skillicons.dev/icons?i=python,kotlin,nodejs,rust,golang,cpp,mongo,redis,postgres,java&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,cmake,gcp,git,godot,idea,kubernetes,linux,materialui&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nginx,rabbitmq,raspberrypi,react,spring,c,js,tailwind,vscode,bootstrap&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,cmake,gcp,git,godot,idea,kubernetes,linux,materialui,nginx,rabbitmq,raspberrypi,react,spring,c,js,tailwind,vscode,bootstrap,python,kotlin,nodejs,rust,golang,cpp,mongo,redis,postgres,java&theme=light&perline=10)](https://skillicons.dev)
 
 have a nice day!
 
