@@ -1,5 +1,5 @@
 ### My name is Timofey Gulenok
-### I am Junior+ developer from Moscow
+### I am Junior+ developer
 ### My main directions in programming are:
 - DevOps
 - Backend
