@@ -5,7 +5,7 @@
 - Backend
 - Low level programming
 - Mobile apps
-### You can write me to my telegram https://t.me/ACORU
+### You can write me to my telegram https://t.me/ACORU or discord green_haze
 ### I fluently (B1-B2) Speak english and mostly active from 8:00 to 23:00 by UTC+3 time
 ### I will be realy glad to meet new people interested in programming!
 
